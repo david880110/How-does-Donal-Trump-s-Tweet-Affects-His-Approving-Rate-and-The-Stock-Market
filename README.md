@@ -10,6 +10,7 @@
 </ul>
 <h2>Projects</h2>
 <ul>
+
 <li><b>Write in words what you want to do</b> Input proposal here.</li>
 <li><b>Data Sources</b>  Input data source here.</li>
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
@@ -28,6 +29,9 @@
 <ul>
 <p>
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
+</ul>
+<p>
+</b></b>Twitter</li>
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
