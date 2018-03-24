@@ -5,7 +5,7 @@
 <ul>
 <li>Aram Hovasapyan</li>
 <li>Cesar Castrejon</li>
-<li>Long Gu</li>
+<li>David Gu</li>
 <li>Tsering Sherpa</li>
 </ul>
 <h2>Projects</h2>
