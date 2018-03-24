@@ -16,13 +16,13 @@
 <li><b>Relevant Plots</b>  Input plots here.</li>
 <li><b>Schedule/Who is doing what
 <p>
-</b></b>Tuesday - Someone clean the data</li>
+</b></b>Tuesday 3/27/2018 - Someone clean the data</li>
 <p>
-</b></b>Thursday - Plotting to start answering questions</li>
+</b></b>Thursday 3/29/2018 - Plotting to start answering questions</li>
 <p>
-</b></b>Saturday - Continue questions, presentation framework</li>
+</b></b>Saturday 3/31/2018 - Continue questions, presentation framework</li>
 <p>
-</b></b>Tuesday - Prensettion</li>
+</b></b>Tuesday 4/3/2018 - Prensettion</li>
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
