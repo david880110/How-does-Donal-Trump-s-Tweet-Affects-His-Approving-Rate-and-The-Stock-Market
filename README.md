@@ -14,4 +14,10 @@
 <li><b>Data Sources</b>  Input data source here.</li>
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
 <li><b>Relevant Plots</b>  Input plots here.</li>
-<li><b>Schedule</b>  Input Schedule here.</li>
+<li><b>Schedule/Who is doing what</b>  Input Schedule here.</li>
+</ul>
+<h2>Grading Criteria</h2>
+<ul>
+<li><b>Lowest</b> Code doesn't run/One person does all works.</li>
+<li><b>Hurt your grade</b> Not meeting obkectives/Code commenting/Tidy presentation.</li>
+
