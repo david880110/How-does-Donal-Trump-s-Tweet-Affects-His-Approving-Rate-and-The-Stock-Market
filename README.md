@@ -18,7 +18,7 @@
 <p>
 </b></b>Tuesday - Someone clean the data</li>
 <p>
-</b></b>Thursday - plotting to start answering questions</li>
+</b></b>Thursday - Plotting to start answering questions</li>
 <p>
 </b></b>Saturday - Continue questions, presentation framework</li>
 <p>
