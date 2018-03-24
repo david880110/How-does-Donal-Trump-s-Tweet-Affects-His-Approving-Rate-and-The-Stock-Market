@@ -15,7 +15,7 @@
 <li><b>Hypothesis:</b> We hypothesize that tweets gauged to garner an extreme sentiment (closer to the fringes whether positive or negative) will correlate with notably high or low approval ratings on that day. </li>
 <li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>
 <p>
-</b></b></b></b></b></b> Twitter
+</b></b></b></b></b></b> Twitter API
 <li><b>Plots:</b> Our plots will track sentiment vs approval rating for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Trump’s tweets to his approval rating. 
 The best visualization method in this case would be line plots and scatter plots. 
 </li>
