@@ -31,9 +31,8 @@ The best visualization method in this case would be line plots and scatter plots
 <ul>
 <p>
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
-</ul>
 <p>
-</b></b></b>Twitter</li>
+</b></b>Twitter
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
