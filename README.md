@@ -1,6 +1,6 @@
 <h1>Group 6 - Maybe another cooler name</h1>
 <p>
-<b>Mmembers:</b>
+<b>Members:</b>
 </p>
 <ul>
 <li>Aram Hovasapyan</li>
