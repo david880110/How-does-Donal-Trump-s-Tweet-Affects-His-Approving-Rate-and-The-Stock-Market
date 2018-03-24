@@ -15,10 +15,10 @@
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
 <li><b>Relevant Plots</b>  Input plots here.</li>
 <li><b>Schedule/Who is doing what
-<li></b></b>Tuesday - someone clean the data</li>
+<li></b></b>Tuesday - Someone clean the data</li>
 <li></b></b>Thursday - plotting to start answering questions</li>
 <li></b></b>Saturday - Continue questions, presentation framework</li>
-<li></b></b>Tuesday - prensettion</li>
+<li></b></b>Tuesday - Prensettion</li>
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
