@@ -11,11 +11,11 @@
 <h2>Projects</h2>
 <ul>
 
-<li><b>Project Proposal</b> Analyze Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day. In terms of data, we will use tweets from twitter and compare against daily poll data available on FiveThirtyEight.com.</li>
-
-<li><b>Data Sources</b>  Input data source here.</li>
+<li><b>Project Proposal</b> Analyze Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.</li>
+<li><b>Hypothesis</b> We hypothesize that tweets gauged to garner an extreme sentiment (closer to the fringes whether positive or negative) will correlate with notably high or low approval ratings on that day. </li>
+<li><b>Data Sources</b> FiveThirtyEight.com/Twitter</li>
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
-<li><b>Plots</b>Our plots will track sentiment vs approval rating for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Trump’s tweets to his approval rating. 
+<li><b>Plots</b> Our plots will track sentiment vs approval rating for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Trump’s tweets to his approval rating. 
 The best visualization method in this case would be line plots and scatter plots. 
 </li>
 <li><b>Schedule/Who is doing what
@@ -34,7 +34,7 @@ The best visualization method in this case would be line plots and scatter plots
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
 </ul>
 <p>
-</b></b>Twitter</li>
+</b></b></b>Twitter</li>
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
