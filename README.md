@@ -1,4 +1,4 @@
-<h1>Group 6</h1>
+<h1>Group 6 - Maybe another cooler name</h1>
 <p>
 <b>Mmembers:</b>
 </p>
