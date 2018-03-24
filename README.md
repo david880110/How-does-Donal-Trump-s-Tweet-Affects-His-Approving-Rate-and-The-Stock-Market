@@ -17,8 +17,11 @@
 <li><b>Schedule/Who is doing what
 <p>
 </b></b>Tuesday - Someone clean the data</li>
+<p>
 </b></b>Thursday - plotting to start answering questions</li>
+<p>
 </b></b>Saturday - Continue questions, presentation framework</li>
+<p>
 </b></b>Tuesday - Prensettion</li>
 </ul>
 <h2>Grading Criteria</h2>
