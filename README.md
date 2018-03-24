@@ -19,5 +19,5 @@
 <h2>Grading Criteria</h2>
 <ul>
 <li><b>Lowest</b> Code doesn't run/One person does all works.</li>
-<li><b>Hurt your grade</b> Not meeting obkectives/Code commenting/Tidy presentation.</li>
+<li><b>Hurt your grade</b> Not meeting obkectives/Code commenting/Git clone/Tidy presentation.</li>
 
