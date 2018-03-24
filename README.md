@@ -11,17 +11,20 @@
 <h2>Projects</h2>
 <ul>
 
-<li><b>Write in words what you want to do</b> Input proposal here.</li>
+<li><b>Project Proposal</b> Analyze Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day. In terms of data, we will use tweets from twitter and compare against daily poll data available on FiveThirtyEight.com.</li>
+
 <li><b>Data Sources</b>  Input data source here.</li>
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
-<li><b>Relevant Plots</b>  Input plots here.</li>
+<li><b>Plots</b>Our plots will track sentiment vs approval rating for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Trump’s tweets to his approval rating. 
+The best visualization method in this case would be line plots and scatter plots. 
+</li>
 <li><b>Schedule/Who is doing what
 <p>
-</b></b>Tuesday 3/27/2018 - Someone clean the data</li>
+</b></b>Tuesday 3/27/2018 - Pull twitter data and clean both the twitter and poll data</li>
 <p>
-</b></b>Thursday 3/29/2018 - Plotting to start answering questions</li>
+</b></b>Thursday 3/29/2018 - Merge the two data sets by date and create a data frame to ensure proper match up of tweets to approval rating on a certain day. Plot this data to track correlation.</li>
 <p>
-</b></b>Saturday 3/31/2018 - Continue questions, presentation framework</li>
+</b></b>Saturday 3/31/2018 - Determine conclusion and build a presentation</li>
 <p>
 </b></b>Tuesday 4/3/2018 - Prensettion</li>
 </ul>
