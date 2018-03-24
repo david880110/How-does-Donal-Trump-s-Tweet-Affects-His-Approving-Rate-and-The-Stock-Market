@@ -11,7 +11,7 @@
 <h2>Projects</h2>
 <ul>
 <li><b>Write in words what you want to do</b> Input proposal here.</li>
-<li><b>Why</b>  Input project proposal here
-<li><b>Where is the data coming from</b>  Input data source here.</li>
-<li><b>What is the approach</b>  Input approach here.</li>
+<li><b>Data Sources</b>  Input data source here.</li>
+<li><b>How to do (Analysis)</b>  Input approach here.</li>
+<li><b>Relevant Plots</b>  Input plots here.</li>
 <li><b>Schedule</b>  Input Schedule here.</li>
