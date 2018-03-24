@@ -15,6 +15,7 @@
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
 <li><b>Relevant Plots</b>  Input plots here.</li>
 <li><b>Schedule/Who is doing what
+<p>
 <li></b></b>Tuesday - Someone clean the data</li>
 <li></b></b>Thursday - plotting to start answering questions</li>
 <li></b></b>Saturday - Continue questions, presentation framework</li>
