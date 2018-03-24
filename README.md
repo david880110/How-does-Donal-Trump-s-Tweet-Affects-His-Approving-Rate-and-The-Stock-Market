@@ -14,7 +14,11 @@
 <li><b>Data Sources</b>  Input data source here.</li>
 <li><b>How to do (Analysis)</b>  Input approach here.</li>
 <li><b>Relevant Plots</b>  Input plots here.</li>
-<li><b>Schedule/Who is doing what</b>  Input Schedule here.</li>
+<li><b>Schedule/Who is doing what
+</b></b>Tuesday - someone clean the data</li>
+</b></b>Thursday - plotting to start answering questions</li>
+</b></b>Saturday - Continue questions, presentation framework</li>
+</b></b>Tuesday - prensettion</li>
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
