@@ -28,7 +28,7 @@ The best visualization method in this case would be line plots and scatter plots
 <h2>Reference</h2>
 <ul>
 <p>
-<li></b></b>_How We’re Tracking Donald Trump’s Approval Ratings_ http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
+<li></b></b>_ [How We’re Tracking Donald Trump’s Approval Ratings](http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/)_</li>
 <li></b></b>_Here’s What Happened After Trump Targeted These 9 Companies on Twitter_ https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
 <li></b></b>_The Bankrate Trump Index: How the president’s words affect stocks_ https://www.bankrate.com/investing/the-bankrate-trump-index-how-the-presidents-words-affect-stocks/</li>
 <p>
