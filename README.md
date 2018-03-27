@@ -32,6 +32,12 @@ The best visualization method in this case would be line plots and scatter plots
 <p>
 </b></b>Twitter
 </ul>
+<h2>Google Slides Link</h2>
+<ul>
+<p>
+</b></b>https://docs.google.com/presentation/d/1faezurnz70tVhej2AsqZnQS5CYjDOfUhsiIHepLwdHY/edit#slide=id.p</li>
+ <p>
+</ul>
 <h2>Grading Criteria</h2>
 <ul>
 <li><b>Lowest</b> Code doesn't run/One person does all works.</li>
