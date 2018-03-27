@@ -30,6 +30,7 @@ The best visualization method in this case would be line plots and scatter plots
 <p>
 <li></b></b>How We’re Tracking Donald Trump’s Approval Ratings http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
 <li></b></b>Here’s What Happened After Trump Targeted These 9 Companies on Twitter https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
+<li></b></b>The Bankrate Trump Index: How the president’s words affect stocks https://www.bankrate.com/investing/the-bankrate-trump-index-how-the-presidents-words-affect-stocks/</li>
 <p>
 </b></b>Twitter
 </ul>
