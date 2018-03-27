@@ -10,7 +10,7 @@
 </ul>
 <h2>Projects</h2>
 <ul>
-
+![alt text](https://cdn.images.express.co.uk/img/dynamic/22/590x/dow-jones-stock-market-crash-donald-trump-915007.jpg)
 <li><b>Project Proposal:</b> Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.</li>
 <p>
 <li><b>Hypothesis:</b> We hypothesize that Donal Trump's tweets gauged to garner an extreme sentiment (closer to the fringes whether positive or negative) will correlate with notably high or low approval ratings and stock market on that day. </li>
