@@ -28,8 +28,8 @@ The best visualization method in this case would be line plots and scatter plots
 <h2>Reference</h2>
 <ul>
 <p>
-</b></b>How We’re Tracking Donald Trump’s Approval Ratings http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
-</b></b>Here’s What Happened After Trump Targeted These 9 Companies on Twitter https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
+<li></b></b>How We’re Tracking Donald Trump’s Approval Ratings http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
+<li></b></b>Here’s What Happened After Trump Targeted These 9 Companies on Twitter https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
 <p>
 </b></b>Twitter
 </ul>
