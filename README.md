@@ -37,7 +37,7 @@ The best visualization method in this case would be line plots and scatter plots
 </b></b>Twitter
 </ul>
 <h2>Schedule</h2>
-![Optional Text](..image/Rough schedule.png)
+![GitHub Logo](/image/Rough schedule.png)
 
 </ul>
 <h2>Grading Criteria</h2>
