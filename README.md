@@ -21,6 +21,8 @@ The best visualization method in this case would be line plots and scatter plots
 </li>
 <li><b>Schedule:
 <p>
+![rough schedule](https://user-images.githubusercontent.com/34464522/37946222-2c6297a8-3139-11e8-9beb-bd1abe17fbae.png)
+ <p>
 </b></b>Tuesday 3/27/2018 - Pull and clean all data (poll, twitter and stock)</li>
 <p>
 </b></b>Thursday 3/29/2018 - Merge the two data sets by date and create a data frame to ensure proper match up of tweets to approval rating on a certain day. Plot this data to track correlation.</li>
@@ -35,10 +37,6 @@ The best visualization method in this case would be line plots and scatter plots
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
 <p>
 </b></b>Twitter
-</ul>
-<h2>Schedule</h2>
-![rough schedule](https://user-images.githubusercontent.com/34464522/37946222-2c6297a8-3139-11e8-9beb-bd1abe17fbae.png)
-
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
