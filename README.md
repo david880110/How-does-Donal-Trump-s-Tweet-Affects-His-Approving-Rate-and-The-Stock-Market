@@ -8,7 +8,7 @@
 <li>David Gu</li>
 <li>Tsering Sherpa</li>
 </ul>
-<h2>Projects</h2>1
+<h2>Projects</h2>
 <p>
  <img src="image/dow-jones-stock-market-crash-donald-trump-915007.jpg"/>
 <li><b>Project Proposal:</b> Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.</li>
