@@ -36,7 +36,6 @@ The best visualization method in this case would be line plots and scatter plots
 <ul>
 <p>
 </b></b>https://docs.google.com/presentation/d/1faezurnz70tVhej2AsqZnQS5CYjDOfUhsiIHepLwdHY/edit#slide=id.p</li>
-<ul>
 <p>
 <h2>Grading Criteria</h2>
 <ul>
