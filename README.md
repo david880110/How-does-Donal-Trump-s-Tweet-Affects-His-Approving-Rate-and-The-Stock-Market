@@ -36,6 +36,9 @@ The best visualization method in this case would be line plots and scatter plots
 <p>
 </b></b>Twitter
 </ul>
+<h3>Schedule</h3>
+<img src="Schedule.PNG">
+</ul>
 <h2>Grading Criteria</h2>
 <ul>
 <li><b>Lowest</b> Code doesn't run/One person does all works.</li>
