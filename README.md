@@ -29,7 +29,7 @@ The best visualization method in this case would be line plots and scatter plots
 <ul>
 <p>
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
-</b></bhttps://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
+</b></b>Here’s What Happened After Trump Targeted These 9 Companies on Twitter https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/</li>
 <p>
 </b></b>Twitter
 </ul>
