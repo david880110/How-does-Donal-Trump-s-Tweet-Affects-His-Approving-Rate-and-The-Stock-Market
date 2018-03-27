@@ -23,13 +23,6 @@ The best visualization method in this case would be line plots and scatter plots
 <p>
  <img src="image/Rough schedule.png"/>
  <p>
-</b></b>Tuesday 3/27/2018 - Pull and clean all data (poll, twitter and stock)</li>
-<p>
-</b></b>Thursday 3/29/2018 - Merge the two data sets by date and create a data frame to ensure proper match up of tweets to approval rating on a certain day. Plot this data to track correlation.</li>
-<p>
-</b></b>Saturday 3/31/2018 - Determine conclusion and build a presentation</li>
-<p>
-</b></b>Tuesday 4/3/2018 - Prensettion</li>
 </ul>
 <h2>Reference</h2>
 <ul>
