@@ -15,7 +15,7 @@
 <p>
 <li><b>Hypothesis:</b> We hypothesize that Donal Trump's tweets gauged to garner an extreme sentiment (closer to the fringes whether positive or negative) will correlate with notably high or low approval ratings and stock market on that day. </li>
 <p>
-<li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>&Twitter API
+<li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>&     Twitter API
 <p>
 <li><b>Plots:</b> Our plots will track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. 
 The best visualization method in this case would be line plots and scatter plots.</li>
