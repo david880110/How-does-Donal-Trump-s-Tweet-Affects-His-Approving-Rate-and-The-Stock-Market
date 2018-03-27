@@ -17,7 +17,7 @@
 <p>
 <li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>
 <p>
-:   Twitter API</p>
+&nbsp;&nbsp;&nbsp;&nbsp;Twitter API</p>
 <p>
 <li><b>Plots:</b> Our plots will track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. 
 The best visualization method in this case would be line plots and scatter plots.</li>
@@ -32,7 +32,7 @@ The best visualization method in this case would be line plots and scatter plots
 <p>
 </b></b>http://fivethirtyeight.com/features/how-were-tracking-donald-trumps-approval-ratings/</li>
 <p>
-</b></b>Twitter API
+</b></b>Twitter
 </ul>
 <h2>Grading Criteria</h2>
 <ul>
