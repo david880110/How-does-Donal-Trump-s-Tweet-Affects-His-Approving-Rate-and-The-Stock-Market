@@ -21,7 +21,7 @@ The best visualization method in this case would be line plots and scatter plots
 </li>
 <li><b>Schedule:
 <p>
-![rough schedule](https://user-images.githubusercontent.com/34464522/37946222-2c6297a8-3139-11e8-9beb-bd1abe17fbae.png)
+ <img src="image/Rough schedule.png"/>
  <p>
 </b></b>Tuesday 3/27/2018 - Pull and clean all data (poll, twitter and stock)</li>
 <p>
