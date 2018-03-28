@@ -8,7 +8,7 @@
 <li>David Gu</li>
 <li>Tsering Sherpa</li>
 </ul>
-<h2>Projects</h2>
+<h2>Projects: How does Donal Trump's Tweet Affects His Approving Rate and The Stock Market</h2>
 <p>
  <img src="image/dow-jones-stock-market-crash-donald-trump-915007.jpg"/>
 <p>
