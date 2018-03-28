@@ -11,6 +11,7 @@
 <h2>Projects</h2>
 <p>
  <img src="image/dow-jones-stock-market-crash-donald-trump-915007.jpg"/>
+<p>
  <img src="image/5a7904cb1d000026006ade10.jpeg"/>
 <li><b>Project Proposal:</b> Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.</li>
 <p>
