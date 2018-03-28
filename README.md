@@ -1,4 +1,4 @@
-<h1>Group 6 - Maybe another cooler name</h1>
+<h1>Group Name: Data Animal</h1>
 <p>
 <b>Members:</b>
 </p>
@@ -11,11 +11,12 @@
 <h2>Projects</h2>
 <p>
  <img src="image/dow-jones-stock-market-crash-donald-trump-915007.jpg"/>
+ <img src="image/5a7904cb1d000026006ade10.jpeg"/>
 <li><b>Project Proposal:</b> Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.</li>
 <p>
 <li><b>Hypothesis:</b> We hypothesize that Donal Trump's tweets gauged to garner an extreme sentiment (closer to the fringes whether positive or negative) will correlate with notably high or low approval ratings and stock market on that day. </li>
 <p>
-<li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>&     Twitter API
+<li><b>Data Sources:</b> https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings</li>
 <p>
 <li><b>Plots:</b> Our plots will track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. 
 The best visualization method in this case would be line plots and scatter plots.</li>
