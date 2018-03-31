@@ -9,6 +9,8 @@
 
 ## Projects: 
 #### How does Donal Trump's Tweet Affects His Approving Rate and The Stock Market
+![alt text](https://github.com/david880110/Group-6/blob/master/image/Trump's%20tweet%20image.png)
+![alt text](https://github.com/david880110/Group-6/blob/master/image/dow-jones-stock-market-crash-donald-trump-915007.jpg)
 
 ### Project Proposal: 
 #### Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.
