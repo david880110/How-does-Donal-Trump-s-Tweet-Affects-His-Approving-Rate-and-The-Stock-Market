@@ -39,7 +39,7 @@ The best visualization method in this case would be line plots and scatter plots
 <h2>Google Slides Link</h2>
 <ul>
 <p>
-</b></b>https://docs.google.com/presentation/d/1faezurnz70tVhej2AsqZnQS5CYjDOfUhsiIHepLwdHY/edit#slide=id.p</li>
+</b></b>https://docs.google.com/presentation/d/1faezurnz70tVhej2AsqZnQS5CYjDOfUhsiIHepLwdHY/edit?usp=sharing</li>
  <p>
  <img src="image/Analytics Paradigm.png"/>
  <p>
