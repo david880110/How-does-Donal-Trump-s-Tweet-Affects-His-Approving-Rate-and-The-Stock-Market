@@ -33,6 +33,8 @@
 #### [Here’s What Happened After Trump Targeted These 9 Companies on Twitter]( https://studentloanhero.com/featured/donald-trump-tweets-targeted-companies/)
 #### [The Bankrate Trump Index: How the president’s words affect stocks]( https://www.bankrate.com/investing/the-bankrate-trump-index-how-the-presidents-words-affect-stocks/)
 #### [Never Tweet, Mr. President]( https://fivethirtyeight.com/features/never-tweet-mr-president/)
+#### [The 425 People, Places and Things Donald
+Trump Has Insulted on Twitter: A Complete List]( https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html?mcubz=3&amp;_r=0)
 
 
 ## [Presentation Slides](https://docs.google.com/presentation/d/1faezurnz70tVhej2AsqZnQS5CYjDOfUhsiIHepLwdHY/edit?usp=sharing)
