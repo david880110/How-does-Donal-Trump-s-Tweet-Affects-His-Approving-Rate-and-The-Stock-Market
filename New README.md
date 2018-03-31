@@ -21,6 +21,7 @@
 ### Data Sources:
 #### [fivethirtyeight]https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings
 #### [Yahoo Finance]https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
+#### [http://www.trumptwitterarchive.com/archive
 
 ### Plots: 
 #### Our plots will track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. The best visualization method in this case would be line plots and scatter plots.
