@@ -10,7 +10,7 @@
 ## Projects: 
 #### How does Donal Trump's Tweet Affects His Approving Rate and The Stock Market
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/Trump's%20tweet%20image.png)
-![alt text](https://github.com/david880110/Group-6/blob/master/image/dow-jones-stock-market-crash-donald-trump-915007.jpg)
+	![alt text](https://github.com/david880110/Group-6/blob/master/image/dow-jones-stock-market-crash-donald-trump-915007.jpg)
 
 ### Project Proposal: 
 #### Analyze Donald Trump’s tweet sentiment on a historical daily basis and track how daily sentiment correlates with his approval rating on the same day.
@@ -21,6 +21,7 @@
 ### Data Sources:
 #### [fivethirtyeight]https://github.com/fivethirtyeight/data/tree/master/trump-approval-ratings
 #### [Yahoo Finance]https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
+#### [Trump Twitter Archive]http://www.trumptwitterarchive.com/archive
 
 ### Plots: 
 #### Our plots will track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. The best visualization method in this case would be line plots and scatter plots.
