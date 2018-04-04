@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 analyzer = SentimentIntensityAnalyzer()
 
-df=pd.read_csv("..\Raw Data\TrumpTweets.csv")
+df=pd.read_csv("../Raw Data/Trump tweets 3 day groups jan-dec 2017.csv")
 
 firstTweet = True
 compound_list =[]
@@ -42,3 +42,4 @@ for index, row in sentiments_df.iterrows():
     d= datetime.strptime(row['Date'], '%m/%d/%y')
     sentiments_df.loc[index, 'Date'] = d.strftime('%Y-%m-%d')
 sentiments_df=sentiments_df.loc[(sentiments_df['Date'] > '2017-01-19') & (sentiments_df['Date'] < '2018-01-01')]
+print(sentiments_df)
