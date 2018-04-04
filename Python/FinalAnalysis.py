@@ -78,7 +78,8 @@ sentiments_df =sentiments_df[['Date','Compound','Count']]
 
 
 #Read tweets approval ratings from csv file
-df1=pd.read_csv("..\Raw Data\approval data clean values only.csv")
+
+df1= pd.read_csv("..\Raw Data\data clean values only.csv")
 
 #Changing the date format
 #Keeping only one date and renaming it to 'Date'
@@ -108,11 +109,11 @@ for index, row in correlate_df.iterrows():
 #Create line plot to find correlation if any between sentiment and disapproval
 plt.figure(figsize=(20,12))
 x_axis = correlate_df['Date']
-plt.legend((Compound[0], Approve[0]), ('Disapproval', 'Compound'))
 plt.title('Compound Sentiment Score vs Disapproving Percentage')
 # Create a handle for each plot
 Compound = plt.plot(x_axis, correlate_df['Compound']+45, marker="+",color="blue", linewidth=1, label="Sentiment")
 Disapprove = plt.plot(x_axis, correlate_df['Disapprove'], marker="s", color="Red", linewidth=1, label="Disapprove")
+plt.legend((Compound[0], Disapprove[0]), ('Disapproval', 'Compound'))
 plt.show()
 
 #Plotting line graph for bottom 10 of narrowed values
