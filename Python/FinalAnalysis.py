@@ -7,7 +7,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 analyzer = SentimentIntensityAnalyzer()
 
 #Read tweets from csv file
-df=pd.read_csv("Trump tweets 3 day groups jan-dec 2017.csv")
+df=pd.read_csv("..\Raw Data\Trump tweets 3 day groups jan-dec 2017.csv")
 
 #Changing the date format
 for index, row in df.iterrows():
@@ -78,7 +78,7 @@ sentiments_df =sentiments_df[['Date','Compound','Count']]
 
 
 #Read tweets approval ratings from csv file
-df1=pd.read_csv("approval data clean values only.csv")
+df1=pd.read_csv("..\Raw Data\approval data clean values only.csv")
 
 #Changing the date format
 #Keeping only one date and renaming it to 'Date'
@@ -128,7 +128,7 @@ Disapprove = plt.plot(x_axis, correlate_df['Disapprove'], marker="o", color="Red
 plt.show()
 
 #Importing S&P Data
-SP_data = "S&P 500 Raw data_1-20-2017 ~ 3-21-2018.csv"
+SP_data = "..\Raw Data\S&P 500 Raw data_1-20-2017 ~ 3-21-2018.csv"
 SP_df = pd.read_csv(SP_data, encoding = "ISO-8859-1")
 
 correlate_df =sentiments_df.merge(approval_df,on='Date',how="outer")
@@ -195,7 +195,7 @@ plt.bar(x_axis, np.sqrt(np.square(deltas_df['Delta Compound'])), color="green")
 plt.show()
 
 #Read tweets from csv file
-df=pd.read_csv("Trump tweets 3 day groups jan-dec 2017.csv")
+df=pd.read_csv("..\Raw Data\Trump tweets 3 day groups jan-dec 2017.csv")
 
 #Changing the date format
 for index, row in df.iterrows():
@@ -265,7 +265,7 @@ sentiments_df =sentiments_df[['Date','Compound','Count']]
 sentiments_df.head()
 
 #Read tweets approval ratings from csv file
-df1=pd.read_csv("approval data clean values only.csv")
+df1=pd.read_csv("..\Raw Data\approval data clean values only.csv")
 df1.head()
 
 #Changing the date format
