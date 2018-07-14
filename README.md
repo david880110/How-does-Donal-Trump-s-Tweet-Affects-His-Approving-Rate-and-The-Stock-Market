@@ -1,7 +1,7 @@
 
 # Group Name: Data Animal
 
-## Members:
+## Contributors (In Alphabetical Order):
 * [Aram Hovasapyan](https://www.linkedin.com/in/aram-hovasapyan-181b8a81/)
 * [Cesar Castrejon](https://www.linkedin.com/in/cesar-castrejon-927164118/)
 * [David Gu](https://www.linkedin.com/in/david-long-gu-a0806b5a/)
